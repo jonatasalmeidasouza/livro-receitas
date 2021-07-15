@@ -11,3 +11,4 @@
 * 3 calabresas cortadas em cubos
 * Pão de batata
 * Banana
+* Açúcar
